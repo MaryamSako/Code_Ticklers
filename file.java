@@ -1,1 +1,5 @@
-System.out.printf("WE ARE THE CATS ASS");
+Public class Main {
+  public static void main(String[] args) {
+    System.out.printf("cat";
+  }
+}
