@@ -29,6 +29,6 @@ public class SourceControlSystem {
 
     scanner.close();
 
-
+    System.out.println(fileComparatorSystem.getUnixDiff(oldFile, newFile));
   }
 }
